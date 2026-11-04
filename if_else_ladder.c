@@ -15,5 +15,8 @@ int main(){
     {
         printf(" kicui khawyar mto taka nai");
     }
+
+
+    return 0;
     
 }
